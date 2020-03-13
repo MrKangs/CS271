@@ -1,0 +1,4 @@
+﻿  Assembling Organize_a_List.asm...
+Organize_a_List.asm(9): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  LINK : C:\Users\Kenneth Kang\Desktop\CS271\Organize_a_List\Debug\Project.exe not found or not built by the last incremental link; performing full link
+  Project.vcxproj -> C:\Users\Kenneth Kang\Desktop\CS271\Organize_a_List\Debug\Project.exe
